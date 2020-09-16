@@ -1,3 +1,3 @@
 # Bot-twitter-GO
 
-Construção de um bot para o twitter com a linguagem GO, visando aperfeiçoar o conhecimento e é claro, se divertindo :)
+Building a bot for twitter with the GO language, improving knowledge and of course, having fun :)
